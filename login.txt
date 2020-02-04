@@ -1,0 +1,5 @@
+1. xaampp 설치
+2. muti-login DB생성(php My Admin 이용)
+3. users Table 생성 (id,username,email,user_type,password)
+4. htdocs폴더 아래에 login폴더 생성
+5. 
